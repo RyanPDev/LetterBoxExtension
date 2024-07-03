@@ -3,6 +3,6 @@
   <update>
     <version>1.0</version>
     <update_link>https://github.com/RyanPDev/LetterBoxExtension/blob/main/Extension%20Project.xpi</update_link> <!-- URL to the .xpi file -->
-    <update_url>https://example.com/updates.xml</update_url> <!-- URL to the updates.xml file (self-reference) -->
+    <update_url>https://github.com/RyanPDev/LetterBoxExtension/blob/main/updates.xml</update_url> <!-- URL to the updates.xml file (self-reference) -->
   </update>
 </updates>
